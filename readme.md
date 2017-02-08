@@ -13,5 +13,5 @@ This is my first project to understand the basics of *Git* and *Github*
 - `git checkout -b new-branch`
 - `git checkout existing-branch`
 
-:clap:
+:clap: :clap:
 
